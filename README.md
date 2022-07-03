@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative Backery landing page
+
+  - [DEMO LINK](https://igoree88.github.io/creative_backerry/)
+  - [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students)
+  - Tech stack: HTML5, SCSS, BEM;
+  - Used Grid, Flex, BEM, SASS
+  - Responsive design
